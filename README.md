@@ -5,7 +5,7 @@
 <h3>
  
 - My mane is Thiago Vasconcelos and I'm a software developer from Brazil.
-- 🔭 I’m currently studying computer science.
+- 🔭 I’m currently studying computer science. Also learning C#, ASP.NET, Machine Learing, Data analitycs using python.
 - Basic skills:
 <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
 <img src="https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white">
