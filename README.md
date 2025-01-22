@@ -27,21 +27,19 @@ I have a diverse background across several domains, from business operations to 
 
 ### Core Skills:
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
-  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">  
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">  
   <img src="https://img.shields.io/badge/Apache_Airflow-23282D?style=for-the-badge&logo=apache-airflow&logoColor=white">  
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">  
+  <img src="https://github.com/ThiVasconcelos/ThiVasconcelos/assets/114086890/d078963c-eedf-4319-a599-bc17a55279b1">  
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white">  
+  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">  
+  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">  
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white">  
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white">  
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white">  
   <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white">  
-  <img src="https://github.com/ThiVasconcelos/ThiVasconcelos/assets/114086890/d078963c-eedf-4319-a599-bc17a55279b1">  
   <img src="https://img.shields.io/badge/Looker-00A5E5?style=for-the-badge&logo=looker&logoColor=white">  
-  <img src="https://img.shields.io/badge/DW-%23F9C74F?style=for-the-badge&logo=google-cloud&logoColor=black">  
-  <img src="https://img.shields.io/badge/DL-%23316192?style=for-the-badge&logo=google-cloud&logoColor=white">  
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=azure&logoColor=white">  
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white">  
   <img src="https://img.shields.io/badge/REST-25D366?style=for-the-badge&logo=api&logoColor=white">  
 
